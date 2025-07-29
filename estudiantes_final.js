@@ -370,5 +370,390 @@
       'nota5': 2,
       'final': 13
     }
+  },
+  "rikaxel2023@gmail.com": {
+    "password": "rikaxel2023",
+    "name": "axel rik",
+    "grades": {
+      "nota1": 0,
+      "nota2": 0,
+      "nota3": 0,
+      "nota4": 0,
+      "nota5": 0,
+      "final": 0
+    }
+  },
+  "elvinalejandrocernaramirez25@gmail.com": {
+    "password": "elvinalejandrocernaramirez25",
+    "name": "Cerna Ramirez Elvin alejandro",
+    "grades": {
+      "nota1": 0,
+      "nota2": 0,
+      "nota3": 0,
+      "nota4": 0,
+      "nota5": 0,
+      "final": 0
+    }
+  },
+  "chuquizutastiven17@gmail.com": {
+    "password": "chuquizutastiven17",
+    "name": "Chuquizuta Briceño Abner",
+    "grades": {
+      "nota1": 0,
+      "nota2": 15,
+      "nota3": 16,
+      "nota4": 16,
+      "nota5": 12,
+      "final": 12
+    }
+  },
+  "cordovapinchisergio@gmail.com": {
+    "password": "cordovapinchisergio",
+    "name": "Córdova pinchi Sergio",
+    "grades": {
+      "nota1": 0,
+      "nota2": 0,
+      "nota3": 0,
+      "nota4": 0,
+      "nota5": 0,
+      "final": 0
+    }
+  },
+  "arol16delgadoescobar@gmail.com": {
+    "password": "arol16delgadoescobar",
+    "name": "Delgado Escobar Ciro Arol",
+    "grades": {
+      "nota1": 14,
+      "nota2": 15,
+      "nota3": 0,
+      "nota4": 0,
+      "nota5": 0,
+      "final": 6
+    }
+  },
+  "koestrauco@gmail.com": {
+    "password": "koestrauco",
+    "name": "Espinoza trauco Korky ademir",
+    "grades": {
+      "nota1": 0,
+      "nota2": 15,
+      "nota3": 0,
+      "nota4": 0,
+      "nota5": 0,
+      "final": 3
+    }
+  },
+  "williangraciascoquienche@gmail.com": {
+    "password": "williangraciascoquienche",
+    "name": "García Coquinche Willian",
+    "grades": {
+      "nota1": 13,
+      "nota2": 12,
+      "nota3": 0,
+      "nota4": 0,
+      "nota5": 0,
+      "final": 5
+    }
+  },
+  "gariajavi08@gmail.com": {
+    "password": "gariajavi08",
+    "name": "García Javier",
+    "grades": {
+      "nota1": 0,
+      "nota2": 0,
+      "nota3": 0,
+      "nota4": 0,
+      "nota5": 0,
+      "final": 0
+    }
+  },
+  "claudioyairhidalgo@gmail.com": {
+    "password": "claudioyairhidalgo",
+    "name": "Gatica Claudio",
+    "grades": {
+      "nota1": 0,
+      "nota2": 0,
+      "nota3": 0,
+      "nota4": 0,
+      "nota5": 0,
+      "final": 0
+    }
+  },
+  "garygrandezvasquez176@gmail.com": {
+    "password": "garygrandezvasquez176",
+    "name": "Grandez vasquez Gary",
+    "grades": {
+      "nota1": 0,
+      "nota2": 0,
+      "nota3": 0,
+      "nota4": 0,
+      "nota5": 0,
+      "final": 0
+    }
+  },
+  "ivanmanologuerragonzales@gmail.com": {
+    "password": "ivanmanologuerragonzales",
+    "name": "Guerra Gonzales Ivan manolo",
+    "grades": {
+      "nota1": 0,
+      "nota2": 0,
+      "nota3": 0,
+      "nota4": 0,
+      "nota5": 0,
+      "final": 0
+    }
+  },
+  "brayguerrashupingahua@gmail.com": {
+    "password": "brayguerrashupingahua",
+    "name": "Guerra shupingahua Bray llaren",
+    "grades": {
+      "nota1": 0,
+      "nota2": 0,
+      "nota3": 0,
+      "nota4": 0,
+      "nota5": 0,
+      "final": 0
+    }
+  },
+  "aytonstiveenguerraguerra@gmail.com": {
+    "password": "aytonstiveenguerraguerra",
+    "name": "guerraguerra aytonstiveen",
+    "grades": {
+      "nota1": 0,
+      "nota2": 0,
+      "nota3": 0,
+      "nota4": 0,
+      "nota5": 0,
+      "final": 0
+    }
+  },
+  "jesusisuiza88@gmail.com": {
+    "password": "jesusisuiza88",
+    "name": "Isuiza Panduro Harol Jesus",
+    "grades": {
+      "nota1": 15,
+      "nota2": 15,
+      "nota3": 14,
+      "nota4": 0,
+      "nota5": 0,
+      "final": 9
+    }
+  },
+  "linarespandurodaniel12@gmail.com": {
+    "password": "linarespandurodaniel12",
+    "name": "linares panduro David Daniel",
+    "grades": {
+      "nota1": 17,
+      "nota2": 18,
+      "nota3": 18,
+      "nota4": 16,
+      "nota5": 18,
+      "final": 17
+    }
+  },
+  "ljackandrey@gmail.com": {
+    "password": "ljackandrey",
+    "name": "Luna Sandoval Jack Andrey",
+    "grades": {
+      "nota1": 15,
+      "nota2": 16,
+      "nota3": 17,
+      "nota4": 12,
+      "nota5": 12,
+      "final": 14
+    }
+  },
+  "dm4808820@gmail.com": {
+    "password": "dm4808820",
+    "name": "Maldonado Daniel",
+    "grades": {
+      "nota1": 0,
+      "nota2": 0,
+      "nota3": 0,
+      "nota4": 0,
+      "nota5": 0,
+      "final": 0
+    }
+  },
+  "henzjordanmolinatello@gmail.com": {
+    "password": "henzjordanmolinatello",
+    "name": "Molina Tello Henz Jordan",
+    "grades": {
+      "nota1": 0,
+      "nota2": 0,
+      "nota3": 18,
+      "nota4": 15,
+      "nota5": 15,
+      "final": 10
+    }
+  },
+  "andirusmozombite@gmail.com": {
+    "password": "andirusmozombite",
+    "name": "Mozombite chasnamote Andriuth Joel",
+    "grades": {
+      "nota1": 0,
+      "nota2": 0,
+      "nota3": 0,
+      "nota4": 0,
+      "nota5": 0,
+      "final": 0
+    }
+  },
+  "pashanacewesley0@gmail.com": {
+    "password": "pashanacewesley0",
+    "name": "Pashanace Wesley",
+    "grades": {
+      "nota1": 0,
+      "nota2": 0,
+      "nota3": 0,
+      "nota4": 0,
+      "nota5": 0,
+      "final": 0
+    }
+  },
+  "kenpinedo6@gmail.com": {
+    "password": "kenpinedo6",
+    "name": "Pinedo Pinchi Ken Arthur",
+    "grades": {
+      "nota1": 15,
+      "nota2": 14,
+      "nota3": 12,
+      "nota4": 0,
+      "nota5": 0,
+      "final": 8
+    }
+  },
+  "halcongama1991@gmail.com": {
+    "password": "halcongama1991",
+    "name": "PISCO RODRIGUEZ HENRY",
+    "grades": {
+      "nota1": 0,
+      "nota2": 0,
+      "nota3": 0,
+      "nota4": 0,
+      "nota5": 0,
+      "final": 0
+    }
+  },
+  "ginoalexanderr425@gmail.com": {
+    "password": "ginoalexanderr425",
+    "name": "Reategui Ramirez Gino Alexander",
+    "grades": {
+      "nota1": 17,
+      "nota2": 0,
+      "nota3": 0,
+      "nota4": 0,
+      "nota5": 0,
+      "final": 3
+    }
+  },
+  "sruizvasquez@gmail.com": {
+    "password": "sruizvasquez",
+    "name": "Ruiz Vasquez Santiago Andres",
+    "grades": {
+      "nota1": 0,
+      "nota2": 0,
+      "nota3": 0,
+      "nota4": 0,
+      "nota5": 0,
+      "final": 0
+    }
+  },
+  "samuelgemelito@gmail.com": {
+    "password": "samuelgemelito",
+    "name": "Saldaña Ruiz Samuel",
+    "grades": {
+      "nota1": 0,
+      "nota2": 0,
+      "nota3": 0,
+      "nota4": 0,
+      "nota5": 0,
+      "final": 0
+    }
+  },
+  "lervypezo7@gmail.com": {
+    "password": "lervypezo7",
+    "name": "Sánchez Pezo Lervy Roberto",
+    "grades": {
+      "nota1": 0,
+      "nota2": 0,
+      "nota3": 0,
+      "nota4": 0,
+      "nota5": 0,
+      "final": 0
+    }
+  },
+  "tpmaxeltuanama@gmail.com": {
+    "password": "tpmaxeltuanama",
+    "name": "Tuanama Pezo Maxel",
+    "grades": {
+      "nota1": 0,
+      "nota2": 0,
+      "nota3": 0,
+      "nota4": 0,
+      "nota5": 0,
+      "final": 0
+    }
+  },
+  "homarurquia@gmail.com": {
+    "password": "homarurquia",
+    "name": "urquia homar",
+    "grades": {
+      "nota1": 0,
+      "nota2": 0,
+      "nota3": 0,
+      "nota4": 0,
+      "nota5": 0,
+      "final": 0
+    }
+  },
+  "kennedyvargasfatama@gmail.com": {
+    "password": "kennedyvargasfatama",
+    "name": "Vargas Fatama Hesler Kennedy",
+    "grades": {
+      "nota1": 16,
+      "nota2": 14,
+      "nota3": 0,
+      "nota4": 0,
+      "nota5": 0,
+      "final": 6
+    }
+  },
+  "vegaangulo2008@gmail.com": {
+    "password": "vegaangulo2008",
+    "name": "Vega angulo Alexis",
+    "grades": {
+      "nota1": 0,
+      "nota2": 0,
+      "nota3": 16,
+      "nota4": 0,
+      "nota5": 0,
+      "final": 3
+    }
+  },
+  "emanuelzutatapullima330@gmail.com": {
+    "password": "emanuelzutatapullima330",
+    "name": "Zuta tapullima Emanuel",
+    "grades": {
+      "nota1": 0,
+      "nota2": 0,
+      "nota3": 0,
+      "nota4": 0,
+      "nota5": 0,
+      "final": 0
+    }
+  },
+  "zutaemanuel23@gmail.com": {
+    "password": "zutaemanuel23",
+    "name": "Zuta tapullima Emanuel",
+    "grades": {
+      "nota1": 16,
+      "nota2": 17,
+      "nota3": 0,
+      "nota4": 0,
+      "nota5": 0,
+      "final": 7
+    }
   }
 }
+
