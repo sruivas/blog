@@ -647,18 +647,6 @@
       "final": 3
     }
   },
-  "sruizvasquez@gmail.com": {
-    "password": "sruizvasquez",
-    "name": "Ruiz Vasquez Santiago Andres",
-    "grades": {
-      "nota1": 0,
-      "nota2": 0,
-      "nota3": 0,
-      "nota4": 0,
-      "nota5": 0,
-      "final": 0
-    }
-  },
   "samuelgemelito@gmail.com": {
     "password": "samuelgemelito",
     "name": "Saldaña Ruiz Samuel",
