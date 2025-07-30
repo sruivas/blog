@@ -742,6 +742,365 @@
       "nota5": 0,
       "final": 7
     }
+  },
+"miguelangelchuquillanquerojas@gmail.com": {
+    "password": "miguelangelchuquillanquerojas",
+    "name": "Chuquillanque Rojas Miguel \u00c1ngel",
+    "grades": {
+      "nota1": 0,
+      "nota2": 18,
+      "nota3": 0,
+      "nota4": 0,
+      "nota5": 0,
+      "final": 4
+    }
+  },
+  "nr422846@gmail.com": {
+    "password": "nr422846",
+    "name": "REYNA SINARAHUA NICOL\u00c1S",
+    "grades": {
+      "nota1": 0,
+      "nota2": 0,
+      "nota3": 0,
+      "nota4": 0,
+      "nota5": 0,
+      "final": 0
+    }
+  },
+  "aurelioaguilarvillegas2025@gmail.com": {
+    "password": "aurelioaguilarvillegas2025",
+    "name": "Aguilar Villegas Marco Aurelio",
+    "grades": {
+      "nota1": 0,
+      "nota2": 18,
+      "nota3": 18,
+      "nota4": 0,
+      "nota5": 0,
+      "final": 7
+    }
+  },
+  "paredesperezalexmiguel@gmail.com": {
+    "password": "paredesperezalexmiguel",
+    "name": "Alex Miguel Paredes Perez",
+    "grades": {
+      "nota1": 2,
+      "nota2": 5,
+      "nota3": 0,
+      "nota4": 0,
+      "nota5": 0,
+      "final": 1
+    }
+  },
+  "saularista80@gmail.com": {
+    "password": "saularista80",
+    "name": "Arista huaman Victor saul",
+    "grades": {
+      "nota1": 0,
+      "nota2": 0,
+      "nota3": 0,
+      "nota4": 0,
+      "nota5": 0,
+      "final": 0
+    }
+  },
+  "dannercalvaycalle@gmail.com": {
+    "password": "dannercalvaycalle",
+    "name": "Calvay Calle Danner",
+    "grades": {
+      "nota1": 0,
+      "nota2": 16,
+      "nota3": 0,
+      "nota4": 0,
+      "nota5": 0,
+      "final": 3
+    }
+  },
+  "joseceopasaavedra@gmail.com": {
+    "password": "joseceopasaavedra",
+    "name": "Ceopa Saavedra Jose Alberto",
+    "grades": {
+      "nota1": 13,
+      "nota2": 0,
+      "nota3": 0,
+      "nota4": 0,
+      "nota5": 0,
+      "final": 3
+    }
+  },
+  "millerchotafababa@gmail.com": {
+    "password": "millerchotafababa",
+    "name": "Chota Fababa Miller Adriel",
+    "grades": {
+      "nota1": 5,
+      "nota2": 16,
+      "nota3": 10,
+      "nota4": 0,
+      "nota5": 0,
+      "final": 6
+    }
+  },
+  "cordovaperezjacksonmanuel79@gmail.com": {
+    "password": "cordovaperezjacksonmanuel79",
+    "name": "Cordova Perez Jackson Manuel",
+    "grades": {
+      "nota1": 18,
+      "nota2": 16,
+      "nota3": 15,
+      "nota4": 18,
+      "nota5": 0,
+      "final": 13
+    }
+  },
+  "frankzamora120@gmail.com": {
+    "password": "frankzamora120",
+    "name": "Cristancho Zamora Frank Ridjar",
+    "grades": {
+      "nota1": 15,
+      "nota2": 18,
+      "nota3": 18,
+      "nota4": 16,
+      "nota5": 16,
+      "final": 17
+    }
+  },
+  "bryanjhosepcuevaloja@gmail.com": {
+    "password": "bryanjhosepcuevaloja",
+    "name": "Cueva Loja Bryan Jhosep",
+    "grades": {
+      "nota1": 18,
+      "nota2": 16,
+      "nota3": 19,
+      "nota4": 17,
+      "nota5": 17,
+      "final": 17
+    }
+  },
+  "delaguilarengifochris@gmail.com": {
+    "password": "delaguilarengifochris",
+    "name": "Del Aguila Rengifo Chris keiler",
+    "grades": {
+      "nota1": 17,
+      "nota2": 17,
+      "nota3": 0,
+      "nota4": 16,
+      "nota5": 13,
+      "final": 13
+    }
+  },
+  "guerraesdras247@gmail.com": {
+    "password": "guerraesdras247",
+    "name": "Esdras nehemias Guerra shupingahua",
+    "grades": {
+      "nota1": 14,
+      "nota2": 18,
+      "nota3": 0,
+      "nota4": 16,
+      "nota5": 0,
+      "final": 10
+    }
+  },
+  "fabmacedosaavedra@gmail.com": {
+    "password": "fabmacedosaavedra",
+    "name": "Fabian Macedo Saavedra",
+    "grades": {
+      "nota1": 0,
+      "nota2": 0,
+      "nota3": 0,
+      "nota4": 0,
+      "nota5": 0,
+      "final": 0
+    }
+  },
+  "guerrasangamajhanpool@gmail.com": {
+    "password": "guerrasangamajhanpool",
+    "name": "Guerra Sangama Jhan Pool",
+    "grades": {
+      "nota1": 11,
+      "nota2": 16,
+      "nota3": 17,
+      "nota4": 0,
+      "nota5": 0,
+      "final": 9
+    }
+  },
+  "ramirezmeraharold@gmail.com": {
+    "password": "ramirezmeraharold",
+    "name": "Harold Maestry Ramirez Mera",
+    "grades": {
+      "nota1": 16,
+      "nota2": 17,
+      "nota3": 17,
+      "nota4": 0,
+      "nota5": 0,
+      "final": 10
+    }
+  },
+  "proqupper@gmail.com": {
+    "password": "proqupper",
+    "name": "Ivan Alexander Pinchi Flores",
+    "grades": {
+      "nota1": 0,
+      "nota2": 0,
+      "nota3": 16,
+      "nota4": 0,
+      "nota5": 10,
+      "final": 5
+    }
+  },
+  "delgadojheferson350@gmail.com": {
+    "password": "delgadojheferson350",
+    "name": "Jheferson Fabi\u00e1n Delgado Re\u00e1tegui",
+    "grades": {
+      "nota1": 0,
+      "nota2": 0,
+      "nota3": 0,
+      "nota4": 0,
+      "nota5": 0,
+      "final": 0
+    }
+  },
+  "saavedraisuizajhonar@gmail.com": {
+    "password": "saavedraisuizajhonar",
+    "name": "Jhonar Saavedra Isuiza",
+    "grades": {
+      "nota1": 16,
+      "nota2": 10,
+      "nota3": 0,
+      "nota4": 15,
+      "nota5": 0,
+      "final": 8
+    }
+  },
+  "rojasjosep07@gmail.com": {
+    "password": "rojasjosep07",
+    "name": "Josep Andr\u00e9 Rojas Insapillo,",
+    "grades": {
+      "nota1": 0,
+      "nota2": 0,
+      "nota3": 16,
+      "nota4": 0,
+      "nota5": 0,
+      "final": 3
+    }
+  },
+  "apleonardo0704@gmail.com": {
+    "password": "apleonardo0704",
+    "name": "Leonardo Andr\u00e9 Pinedo Isuiza",
+    "grades": {
+      "nota1": 16,
+      "nota2": 0,
+      "nota3": 15,
+      "nota4": 13,
+      "nota5": 0,
+      "final": 9
+    }
+  },
+  "cphilco968@gmail.com": {
+    "password": "cphilco968",
+    "name": "Philco Reategui Carlos Andres",
+    "grades": {
+      "nota1": 17,
+      "nota2": 17,
+      "nota3": 19,
+      "nota4": 17,
+      "nota5": 8,
+      "final": 16
+    }
+  },
+  "tuanama19salas@gmail.com": {
+    "password": "tuanama19salas",
+    "name": "Salas Tuanama Jose Antonio",
+    "grades": {
+      "nota1": 16,
+      "nota2": 15,
+      "nota3": 0,
+      "nota4": 0,
+      "nota5": 0,
+      "final": 6
+    }
+  },
+  "sangamacachiquehenrybrayan@gmail.com": {
+    "password": "sangamacachiquehenrybrayan",
+    "name": "Sangama Cachique Henry Brayan",
+    "grades": {
+      "nota1": 10,
+      "nota2": 13,
+      "nota3": 16,
+      "nota4": 14,
+      "nota5": 0,
+      "final": 11
+    }
+  },
+  "satalayaisuizamoises094@gmail.com": {
+    "password": "satalayaisuizamoises094",
+    "name": "Satalaya isuiza Moises",
+    "grades": {
+      "nota1": 17,
+      "nota2": 14,
+      "nota3": 8,
+      "nota4": 15,
+      "nota5": 0,
+      "final": 11
+    }
+  },
+  "landermoisessintitulumba@gmail.com": {
+    "password": "landermoisessintitulumba",
+    "name": "Sinti Tulumba Lander Mois\u00e9s",
+    "grades": {
+      "nota1": 14,
+      "nota2": 14,
+      "nota3": 16,
+      "nota4": 16,
+      "nota5": 0,
+      "final": 12
+    }
+  },
+  "esmithsolisterrones@gmail.com": {
+    "password": "esmithsolisterrones",
+    "name": "Solis terrones Robert Esmith",
+    "grades": {
+      "nota1": 0,
+      "nota2": 0,
+      "nota3": 0,
+      "nota4": 0,
+      "nota5": 0,
+      "final": 0
+    }
+  },
+  "tuanamaagipjuansalvador@gmail.com": {
+    "password": "tuanamaagipjuansalvador",
+    "name": "Tuanama Agip Juan Salvador",
+    "grades": {
+      "nota1": 16,
+      "nota2": 15,
+      "nota3": 18,
+      "nota4": 0,
+      "nota5": 0,
+      "final": 10
+    }
+  },
+  "rodrigofabianvelacordova419@gmail.com": {
+    "password": "rodrigofabianvelacordova419",
+    "name": "Vela Cordova Rodrigo Fabian",
+    "grades": {
+      "nota1": 15,
+      "nota2": 15,
+      "nota3": 15,
+      "nota4": 14,
+      "nota5": 0,
+      "final": 12
+    }
+  },
+  "pnavarropasminio@gmail.com": {
+    "password": "pnavarropasminio",
+    "name": "Yair Navarro Pasminio",
+    "grades": {
+      "nota1": 8,
+      "nota2": 0,
+      "nota3": 17,
+      "nota4": 0,
+      "nota5": 0,
+      "final": 5
+    }
   }
 }
-
