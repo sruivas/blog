@@ -1121,8 +1121,8 @@
     "grades": {
       "nota1": 17,
       "nota2": 17,
-      "nota3": 0,
-      "nota4": 16,
+      "nota3": 16,
+      "nota4": 0,
       "nota5": 0,
       "final": 10
     }
@@ -1133,8 +1133,8 @@
     "grades": {
       "nota1": 15,
       "nota2": 16,
-      "nota3": 15,
-      "nota4": 17,
+      "nota3": 17,
+      "nota4": 15,
       "nota5": 0,
       "final": 13
     }
@@ -1181,8 +1181,8 @@
     "grades": {
       "nota1": 18,
       "nota2": 17,
-      "nota3": 16,
-      "nota4": 18,
+      "nota3": 18,
+      "nota4": 16,
       "nota5": 18,
       "final": 17
     }
@@ -1217,8 +1217,8 @@
     "grades": {
       "nota1": 0,
       "nota2": 0,
-      "nota3": 0,
-      "nota4": 14,
+      "nota3": 14,
+      "nota4": 0,
       "nota5": 0,
       "final": 3
     }
@@ -1265,8 +1265,8 @@
     "grades": {
       "nota1": 16,
       "nota2": 13,
-      "nota3": 0,
-      "nota4": 17,
+      "nota3": 17,
+      "nota4": 0,
       "nota5": 0,
       "final": 9
     }
@@ -1313,8 +1313,8 @@
     "grades": {
       "nota1": 14,
       "nota2": 14,
-      "nota3": 16,
-      "nota4": 0,
+      "nota3": 0,
+      "nota4": 16,
       "nota5": 0,
       "final": 9
     }
@@ -1373,8 +1373,8 @@
     "grades": {
       "nota1": 15,
       "nota2": 16,
-      "nota3": 16,
-      "nota4": 0,
+      "nota3": 0,
+      "nota4": 16,
       "nota5": 0,
       "final": 9
     }
@@ -1385,8 +1385,8 @@
     "grades": {
       "nota1": 14,
       "nota2": 17,
-      "nota3": 10,
-      "nota4": 16,
+      "nota3": 16,
+      "nota4": 10,
       "nota5": 13,
       "final": 14
     }
@@ -1397,8 +1397,8 @@
     "grades": {
       "nota1": 16,
       "nota2": 14,
-      "nota3": 0,
-      "nota4": 17,
+      "nota3": 17,
+      "nota4": 0,
       "nota5": 0,
       "final": 9
     }
@@ -1433,8 +1433,8 @@
     "grades": {
       "nota1": 0,
       "nota2": 15,
-      "nota3": 16,
-      "nota4": 17,
+      "nota3": 17,
+      "nota4": 16,
       "nota5": 0,
       "final": 10
     }
@@ -1457,8 +1457,8 @@
     "grades": {
       "nota1": 18,
       "nota2": 16,
-      "nota3": 15,
-      "nota4": 0,
+      "nota3": 0,
+      "nota4": 15,
       "nota5": 0,
       "final": 10
     }
