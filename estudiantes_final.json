@@ -358,5 +358,306 @@
       "nota5": 2,
       "final": 0
     }
+  },
+  "gomercindoalvarezmasape0@gmail.com": {
+    "password": "gomercindoalvarezmasape0",
+    "name": "Álvarez Masape Gomercindo",
+    "grades": {
+      "nota1": 15,
+      "nota2": 14,
+      "nota3": 14,
+      "nota4": 13,
+      "nota5": 7,
+      "final": 13
+    }
+  },
+  "noebaldeon624@gmail.com": {
+    "password": "noebaldeon624",
+    "name": "Baldeon Vásquez Jafet Noe",
+    "grades": {
+      "nota1": 14,
+      "nota2": 13,
+      "nota3": 12,
+      "nota4": 14,
+      "nota5": 10,
+      "final": 13
+    }
+  },
+  "adonisaldochistama@gmail.com": {
+    "password": "adonisaldochistama",
+    "name": "Chistama Adonis Aldo",
+    "grades": {
+      "nota1": 0,
+      "nota2": 0,
+      "nota3": 0,
+      "nota4": 0,
+      "nota5": 10,
+      "final": 2
+    }
+  },
+  "linceralfonsochuushinahua@gmail.com": {
+    "password": "linceralfonsochuushinahua",
+    "name": "Chu ushiñahua Lincer alfonso",
+    "grades": {
+      "nota1": 2,
+      "nota2": 0,
+      "nota3": 0,
+      "nota4": 13,
+      "nota5": 16,
+      "final": 6
+    }
+  },
+  "roky.leninfernandezhuac@gmail.com": {
+    "password": "roky.leninfernandezhuac",
+    "name": "Fernandez Huacal Roky Lenin",
+    "grades": {
+      "nota1": 0,
+      "nota2": 0,
+      "nota3": 0,
+      "nota4": 0,
+      "nota5": 0,
+      "final": 0
+    }
+  },
+  "garciavallesluisenrique@gmail.com": {
+    "password": "garciavallesluisenrique",
+    "name": "GARCIA VALLES, Luis Enrique",
+    "grades": {
+      "nota1": 0,
+      "nota2": 0,
+      "nota3": 0,
+      "nota4": 0,
+      "nota5": 0,
+      "final": 0
+    }
+  },
+  "richardguevarajauregui@gmail.com": {
+    "password": "richardguevarajauregui",
+    "name": "GUEVARA JAUREGUI, Richard Jeanpiere",
+    "grades": {
+      "nota1": 0,
+      "nota2": 0,
+      "nota3": 0,
+      "nota4": 0,
+      "nota5": 0,
+      "final": 0
+    }
+  },
+  "flaviolozanoreategui@gmail.com": {
+    "password": "flaviolozanoreategui",
+    "name": "Lozano Reategui Flavio",
+    "grades": {
+      "nota1": 17,
+      "nota2": 15,
+      "nota3": 17,
+      "nota4": 18,
+      "nota5": 17,
+      "final": 17
+    }
+  },
+  "jampiermedinamarreros15@gmail.com": {
+    "password": "jampiermedinamarreros15",
+    "name": "Medina Marreros Jampier",
+    "grades": {
+      "nota1": 0,
+      "nota2": 8,
+      "nota3": 15,
+      "nota4": 15,
+      "nota5": 0,
+      "final": 8
+    }
+  },
+  "mejiafernandezjorgeluis3@gmail.com": {
+    "password": "mejiafernandezjorgeluis3",
+    "name": "Mejia fernandez Jorge luis",
+    "grades": {
+      "nota1": 14,
+      "nota2": 15,
+      "nota3": 10,
+      "nota4": 15,
+      "nota5": 9,
+      "final": 13
+    }
+  },
+  "carlosorlandomunossaavedra@gmail.com": {
+    "password": "carlosorlandomunossaavedra",
+    "name": "Muños Saavedra Carlos Orlando",
+    "grades": {
+      "nota1": 14,
+      "nota2": 0,
+      "nota3": 0,
+      "nota4": 0,
+      "nota5": 0,
+      "final": 3
+    }
+  },
+  "deivinpaima88@gmail.com": {
+    "password": "deivinpaima88",
+    "name": "Paima Deivin",
+    "grades": {
+      "nota1": 5,
+      "nota2": 0,
+      "nota3": 0,
+      "nota4": 0,
+      "nota5": 0,
+      "final": 1
+    }
+  },
+  "carlos03selva@gmail.com": {
+    "password": "carlos03selva",
+    "name": "Pinedo Amasifuen Juan Carlos",
+    "grades": {
+      "nota1": 0,
+      "nota2": 10,
+      "nota3": 0,
+      "nota4": 0,
+      "nota5": 0,
+      "final": 2
+    }
+  },
+  "pinedopinchicristofer@gmail.com": {
+    "password": "pinedopinchicristofer",
+    "name": "Pinedo pinchi Cristofer",
+    "grades": {
+      "nota1": 14,
+      "nota2": 0,
+      "nota3": 0,
+      "nota4": 0,
+      "nota5": 0,
+      "final": 3
+    }
+  },
+  "andypizango184@gmail.com": {
+    "password": "andypizango184",
+    "name": "Pizango Lopez klissman Andy",
+    "grades": {
+      "nota1": 15,
+      "nota2": 12,
+      "nota3": 14,
+      "nota4": 13,
+      "nota5": 10,
+      "final": 13
+    }
+  },
+  "putpanalopezm@gmail.com": {
+    "password": "putpanalopezm",
+    "name": "Putpaña Lopez Mario Deivis",
+    "grades": {
+      "nota1": 0,
+      "nota2": 5,
+      "nota3": 0,
+      "nota4": 0,
+      "nota5": 0,
+      "final": 1
+    }
+  },
+  "jose77tm7@gmail.com": {
+    "password": "jose77tm7",
+    "name": "Rafael sajami José Manuel",
+    "grades": {
+      "nota1": 9,
+      "nota2": 12,
+      "nota3": 17,
+      "nota4": 8,
+      "nota5": 17,
+      "final": 13
+    }
+  },
+  "mathiasramirezgonzales0@gmail.com": {
+    "password": "mathiasramirezgonzales0",
+    "name": "Ramirez Gonzales Mathias",
+    "grades": {
+      "nota1": 14,
+      "nota2": 14,
+      "nota3": 15,
+      "nota4": 14,
+      "nota5": 10,
+      "final": 13
+    }
+  },
+  "reateguifatamacristianalber@gmail.com": {
+    "password": "reateguifatamacristianalber",
+    "name": "REÁTEGUÍ FÁTAMA CRÍSTÍÁN ALBER",
+    "grades": {
+      "nota1": 0,
+      "nota2": 0,
+      "nota3": 0,
+      "nota4": 0,
+      "nota5": 0,
+      "final": 0
+    }
+  },
+  "camilorengifojery@gmail.com": {
+    "password": "camilorengifojery",
+    "name": "RENGIFO JERY, Camilo Alejandro",
+    "grades": {
+      "nota1": 14,
+      "nota2": 14,
+      "nota3": 15,
+      "nota4": 13,
+      "nota5": 7,
+      "final": 13
+    }
+  },
+  "jamilrengifolaulate@gmail.com": {
+    "password": "jamilrengifolaulate",
+    "name": "Rengifo Laulate Jamil",
+    "grades": {
+      "nota1": 8,
+      "nota2": 8,
+      "nota3": 0,
+      "nota4": 13,
+      "nota5": 10,
+      "final": 8
+    }
+  },
+  "sebastianpinchi5@gmail.com": {
+    "password": "sebastianpinchi5",
+    "name": "Rojas Pinchi Deivi Sebastián",
+    "grades": {
+      "nota1": 8,
+      "nota2": 8,
+      "nota3": 0,
+      "nota4": 12,
+      "nota5": 0,
+      "final": 6
+    }
+  },
+  "sangamajarlin24@gmail.com": {
+    "password": "sangamajarlin24",
+    "name": "sangama Macahuachi Jarlin",
+    "grades": {
+      "nota1": 13,
+      "nota2": 8,
+      "nota3": 0,
+      "nota4": 0,
+      "nota5": 13,
+      "final": 7
+    }
+  },
+  "tuanamajack4@gmail.com": {
+    "password": "tuanamajack4",
+    "name": "Tapullima Tuanama Jack Julton",
+    "grades": {
+      "nota1": 15,
+      "nota2": 16,
+      "nota3": 0,
+      "nota4": 0,
+      "nota5": 0,
+      "final": 6
+    }
+  },
+  "vienasangamariquelme@gmail.com": {
+    "password": "vienasangamariquelme",
+    "name": "Viena Sangama Roldan Riquelme",
+    "grades": {
+      "nota1": 8,
+      "nota2": 12,
+      "nota3": 0,
+      "nota4": 0,
+      "nota5": 0,
+      "final": 4
+    }
   }
 }
+
